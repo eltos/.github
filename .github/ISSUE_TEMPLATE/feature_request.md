@@ -7,14 +7,26 @@ assignees: ''
 
 ---
 
-Describe your idea in general, its use case and its benefits
+<!-- Describe your idea in general, its use case and its benefits -->
+
+...
+
+
 
 **Specification and constraints**
-- Add detailed specifications, constraints, options, alternatives etc.
+<!-- Add detailed specifications, constraints, options, alternatives etc. -->
+
 - ...
 
-If applicable, paste a design image supporting your proposal
+
+
+<!-- If applicable, paste a design image supporting your proposal -->
+
+
+
+
+<!-- If applicable, add proposed method signatures -->
 
 ```
-If applicable, add proposed method signatures
+
 ```
