@@ -1,3 +1,12 @@
+<!--
+Please use the PR template below.
+
+Do not vibecode the contribution! There is very limited value in having an external contributor as an intermediary between a maintainer and an AI model. It's also worth emphasizing that all contributions are reviewed by humans with limited available time. AI-driven contributions can easily create a dangerous imbalance where a maintainer invests more time into a PR than the contributor themselves.
+
+
+
+-->
+
 <!-- Add a description of the goal of this merge request -->
 
 This PR ...
